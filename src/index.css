@@ -1,0 +1,41 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: #EEE;
+}
+.menu-btn button{
+  margin-left: 25px;
+}
+.menu-item{
+  height: 120px;
+  background-color: #fff;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+.menu-item .left-area{
+  height: 120px;
+  width: 30%;
+  float: left;
+}
+.menu-item .right-area{
+  height: 120px;
+  width: 70%;
+  float: left;
+}
+.menu-item .right-area h3{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 10px 10px 0px 20px;
+}
+.menu-item .right-area span{
+  font-size: 18px;
+  display: block;
+  padding: 0px 5px 0px 20px;
+  font-weight: 500;
+  margin-top: -5px;
+}
+.menu-item .btn h6{
+  padding-left: 7px;
+}
+.menu-item .btn button{
+  border: none;
+  margin-left: 60px;
+}
